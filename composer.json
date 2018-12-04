@@ -1,0 +1,19 @@
+{
+    "name": "liujie/composer_test",
+    "description": "composer_test",
+    "authors": [
+        {
+            "name": "Jie Liu"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "LiuJie\\Test\\": "src/"
+        }
+    }
+}
+
