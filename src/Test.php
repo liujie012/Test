@@ -5,7 +5,7 @@ class Test {
 
 
 function test() {
- echo test;
+ echo 'test';
 }
 
 }
