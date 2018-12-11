@@ -1,1 +1,1 @@
-# composer_test v1.0
+# composer_test v1.2
